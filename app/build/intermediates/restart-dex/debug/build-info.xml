@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="25"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="218055958847272"
+    token="-7707436351566612342"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="971" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="815" />
+    <task
+        name="verifier"
+        duration="96" />
+
+    <artifact
+        location="/Users/painter/Documents/FinalProject/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="218055958847272"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/painter/Documents/FinalProject/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

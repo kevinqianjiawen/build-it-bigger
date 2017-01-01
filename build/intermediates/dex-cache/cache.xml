@@ -3,75 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
+        jar="/Users/painter/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
-        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.8.0_6c3cb1b9149dbc85d333c69b3eb67d17d8f62f3a/classes.dex" />
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_0bb3011424f399b6f18c21ae223f570e5ead63c0/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_39880d501d4841edeb896db7ab15a779bd9bd60b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
-        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_b11e09e2ca29c617d8a0cdd1d2c9f706eb8cb5d9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/painter/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_25a0194460cc58d9c4d3bafb5fe93f371dd6584f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="de64f44956036e2f590ca9c8c8b8f3c0471e7cb0">
-        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e1d7e635beb307029e3e3c25b65da3f55cfc6f26/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_9ab8464d1c51780078d5717886aa32b1007a2b59/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b8fdb65aadde104bc7915e6242a4be36fa7a8327/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_bb3eaebaab98337adccb2f34e1e45fee8dfa580a/classes.dex" />
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_2ea11e86d2ce07e8ccbd01594b6a504fd4ebb816/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -79,44 +25,17 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="760d87fe0e6b2560a8246ddbc9039998b6fcbc2b">
+        sha1="58b96125cb66e86e108cc4a874928e771f78dbeb">
         <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2b462ad9b07970d08c8c0690ceecc37792300242/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_c3cb3a065bd814c69aa01cec2563575f0108a171/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
-        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_4c770867dff26a5e113e503e35de989b808c7c3b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_8a0fa57303c4ddff2656f9a867f4cee4bce110fb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
-        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_b321171d957e730acd29b7c5b9a67e7374a96387/classes.dex" />
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_4ebb9ad7d010908e3905235eac51486b783255fb/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -129,6 +48,87 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_567eddf7f8578cc69bfbb615de54b2cfe5ad3d2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_80470e5b72b141544bf0c9048476ffa34ba36a6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.8.0_2baa5b3588e3b31d1c47d4214a9bedc54c9e4645/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.8.0_6c3cb1b9149dbc85d333c69b3eb67d17d8f62f3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_0eb3379f000bc473cd1b5808fe6d06a70e8484c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1efbe922ebb58454259e9227b135ea9e95400112">
+        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e1d7e635beb307029e3e3c25b65da3f55cfc6f26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_9dc0b5d3b02e691eb1d1d84b03d5c0c603932bb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_7cf4aef75cc0f07206a8d132cfd566992df7849a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_b321171d957e730acd29b7c5b9a67e7374a96387/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -138,12 +138,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_9655dc89cb20740ea6cf85fa81162eb0ba09ece7/classes.dex" />
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_916158997ff44cde6a7b88625541959db228b914/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -156,15 +156,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_800e9f39babc2c1d0b3f3fffbfeaf4512a2a0a4d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -174,48 +165,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_0f274cc21e231e4800be9d77d17e9ce937ff97d0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_9c5fb5797f6a39d138d8875cb6497603f0b7074c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_6f11bfdd0f8bf2eb14071cc6890ae24b229256dc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
-        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_843446e8a602ce148c8cca3f778cae506198ae1b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
-        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.8.0_2baa5b3588e3b31d1c47d4214a9bedc54c9e4645/classes.dex" />
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_b3399a362cac035e56e1acb562820eab3e43de60/classes.dex" />
     </item>
 
 </items>

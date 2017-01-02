@@ -1,7 +1,0 @@
-#Sun Jan 01 22:05:35 EST 2017
-base.0=/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e1d7e635beb307029e3e3c25b65da3f55cfc6f26
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2b462ad9b07970d08c8c0690ceecc37792300242/classes.dex
-base.1=/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2b462ad9b07970d08c8c0690ceecc37792300242
-file.0=/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e1d7e635beb307029e3e3c25b65da3f55cfc6f26/classes.dex

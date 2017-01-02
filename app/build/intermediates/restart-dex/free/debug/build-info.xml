@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="25"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="246641627153391"
+    token="-7707436351566612342"
+    verifier="R_CLASS_CHANGE" >
+
+    <task
+        name="javac"
+        duration="155" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="21" />
+    <task
+        name="verifier"
+        duration="11" />
+
+    <artifact
+        location="/Users/painter/Documents/FinalProject/app/build/intermediates/instant-run-resources/resources-free/debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/5/slice_6/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="246215524204972"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/painter/Documents/FinalProject/app/build/outputs/apk/app-free-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="246498957654563"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="246641627153391"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/painter/Documents/FinalProject/app/build/intermediates/instant-run-resources/resources-free/debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

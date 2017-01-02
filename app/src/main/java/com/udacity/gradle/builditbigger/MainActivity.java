@@ -9,17 +9,32 @@ import android.util.Pair;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.Button;
+import android.widget.ProgressBar;
 import android.widget.Toast;
 
 import com.example.Joker;
 import com.example.jokesintent.JokerIntentActivity;
 
 public class MainActivity extends ActionBarActivity {
-
+    public static ProgressBar spinner;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        Button b1 =(Button) findViewById(R.id.button);
+
+        spinner = (ProgressBar) findViewById(R.id.progressBar1);
+        spinner.setVisibility(View.GONE);
+
+        b1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                spinner.setVisibility(View.VISIBLE);
+                new EndpointsAsyncTask().execute(getApplicationContext());
+            }
+        });
     }
 
 
@@ -45,9 +60,9 @@ public class MainActivity extends ActionBarActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    public void tellJoke(View view) {
-        new EndpointsAsyncTask().execute(this);
-    }
+    //public void tellJoke(View view) {
+
+    //}
 
 
 }

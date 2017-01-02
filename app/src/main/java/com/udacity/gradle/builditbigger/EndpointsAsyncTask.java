@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.os.AsyncTask;
 import android.util.Log;
 import android.util.Pair;
+import android.view.View;
 import android.widget.Toast;
 
 import com.example.Joker;
@@ -61,6 +62,8 @@ class EndpointsAsyncTask extends AsyncTask<Context, Void, String> {
     protected void onPostExecute(String result) {
         Intent intent = new Intent(context, JokerIntentActivity.class);
         intent.putExtra(JokerIntentActivity.EXTRA_JOKE, result);
+        MainActivity.spinner.setVisibility(View.GONE);
         context.startActivity(intent);
+
     }
 }

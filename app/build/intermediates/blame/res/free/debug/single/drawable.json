@@ -16,12 +16,12 @@
         "source": "/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/notification_tile_bg.xml"
     },
     {
-        "merged": "/Users/painter/Documents/FinalProject/app/build/intermediates/res/merged/free/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_btn_default_mtrl_shape.xml"
-    },
-    {
         "merged": "/Users/painter/Documents/FinalProject/app/build/intermediates/res/merged/free/debug/drawable/common_google_signin_btn_icon_dark.xml",
         "source": "/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/painter/Documents/FinalProject/app/build/intermediates/res/merged/free/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "/Users/painter/Documents/FinalProject/app/build/intermediates/res/merged/free/debug/drawable/abc_cab_background_top_material.xml",
@@ -36,12 +36,12 @@
         "source": "/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/painter/Documents/FinalProject/app/build/intermediates/res/merged/free/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_cab_background_internal_bg.xml"
-    },
-    {
         "merged": "/Users/painter/Documents/FinalProject/app/build/intermediates/res/merged/free/debug/drawable/abc_item_background_holo_dark.xml",
         "source": "/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/painter/Documents/FinalProject/app/build/intermediates/res/merged/free/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "/Users/painter/Documents/FinalProject/app/build/intermediates/res/merged/free/debug/drawable/notification_icon_background.xml",

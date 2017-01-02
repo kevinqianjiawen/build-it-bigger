@@ -32,20 +32,20 @@
         "source": "/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Users/painter/Documents/FinalProject/app/build/intermediates/res/merged/free/debug/drawable-xhdpi-v4/notification_bg_normal.9.png",
-        "source": "/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
-    },
-    {
         "merged": "/Users/painter/Documents/FinalProject/app/build/intermediates/res/merged/free/debug/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
         "source": "/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/painter/Documents/FinalProject/app/build/intermediates/res/merged/free/debug/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
-        "source": "/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+        "merged": "/Users/painter/Documents/FinalProject/app/build/intermediates/res/merged/free/debug/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "/Users/painter/Documents/FinalProject/app/build/intermediates/res/merged/free/debug/drawable-xhdpi-v4/abc_list_focused_holo.9.png",
         "source": "/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/painter/Documents/FinalProject/app/build/intermediates/res/merged/free/debug/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/Users/painter/Documents/FinalProject/app/build/intermediates/res/merged/free/debug/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",

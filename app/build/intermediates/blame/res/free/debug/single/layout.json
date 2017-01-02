@@ -12,12 +12,12 @@
         "source": "/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/Users/painter/Documents/FinalProject/app/build/intermediates/res/merged/free/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
         "merged": "/Users/painter/Documents/FinalProject/app/build/intermediates/res/merged/free/debug/layout/activity_main.xml",
         "source": "/Users/painter/Documents/FinalProject/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/painter/Documents/FinalProject/app/build/intermediates/res/merged/free/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/painter/Documents/FinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "/Users/painter/Documents/FinalProject/app/build/intermediates/res/merged/free/debug/layout/design_navigation_item_subheader.xml",

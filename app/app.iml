@@ -43,13 +43,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src/freeDebug/jni" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/freeDebug/rs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/freeDebug/shaders" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/r/androidTest/free/debug" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/aidl/androidTest/free/debug" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/buildConfig/androidTest/free/debug" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/rs/androidTest/free/debug" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/apt/androidTest/free/debug" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/rs/androidTest/free/debug" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/resValues/androidTest/free/debug" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/testFreeDebug/res" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/testFreeDebug/resources" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/testFreeDebug/assets" type="java-test-resource" />
@@ -58,6 +51,13 @@
       <sourceFolder url="file://$MODULE_DIR$/src/testFreeDebug/jni" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/testFreeDebug/rs" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/testFreeDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/r/androidTest/free/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/aidl/androidTest/free/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/buildConfig/androidTest/free/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/rs/androidTest/free/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/apt/androidTest/free/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/rs/androidTest/free/debug" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/resValues/androidTest/free/debug" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/free/res" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/free/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/free/assets" type="java-resource" />
@@ -160,7 +160,6 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/instant-run-support" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/jniLibs" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/manifests" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/pre-dexed" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/proguard-rules" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/reload-dex" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/res" />
@@ -191,7 +190,9 @@
     <orderEntry type="library" exported="" name="support-core-ui-25.1.0" level="project" />
     <orderEntry type="library" exported="" name="play-services-ads-lite-10.0.1" level="project" />
     <orderEntry type="library" exported="" name="jsr305-2.0.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="mockito-core-1.8.0-rc2" level="project" />
     <orderEntry type="library" exported="" name="support-core-utils-25.1.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="objenesis-1.0" level="project" />
     <orderEntry type="library" exported="" name="support-annotations-25.1.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="espresso-core-2.2.2" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="exposed-instrumentation-api-publish-0.5" level="project" />

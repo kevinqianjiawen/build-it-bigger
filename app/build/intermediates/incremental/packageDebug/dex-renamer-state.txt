@@ -1,4 +1,4 @@
-#Sun Jan 01 15:45:46 EST 2017
+#Sun Jan 01 22:05:35 EST 2017
 base.0=/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e1d7e635beb307029e3e3c25b65da3f55cfc6f26
 renamed.1=classes.dex
 renamed.0=classes2.dex

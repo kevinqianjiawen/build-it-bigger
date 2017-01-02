@@ -25,6 +25,6 @@
     <string msgid="2039274714455389140" name="debug_menu_title">"Hautatu arazte modua"</string>
     <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Arazo-konpontzailea"</string>
     <string msgid="6099173376375995052" name="decline">"Baztertu"</string>
-    <string msgid="8020323581538738027" name="store_picture_message">"Iragarkiari irudia irudien galerian gordetzea baimendu nahi diozu?"</string>
+    <string msgid="8020323581538738027" name="store_picture_message">"Irudia irudien galerian gordetzea baimendu nahi diozu iragarkiari?"</string>
     <string msgid="4180630057627064606" name="store_picture_title">"Gorde irudia"</string>
 </resources>

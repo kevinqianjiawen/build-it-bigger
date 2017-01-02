@@ -18,13 +18,13 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Telefonda ochish"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Kirish"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Google orqali kirish"</string>
-    <string msgid="6155048007205742679" name="create_calendar_message">"Reklamaga taqvim tadbirini yaratishga ruxsat berilsinmi?"</string>
-    <string msgid="7967007864778154790" name="create_calendar_title">"Taqvim tadbirini yaratish"</string>
+    <string msgid="6155048007205742679" name="create_calendar_message">"Reklamaga taqvimda tadbir yaratishga ruxsat berilsinmi?"</string>
+    <string msgid="7967007864778154790" name="create_calendar_title">"Taqvimda tadbir yaratish"</string>
     <string msgid="4722375419392727435" name="debug_menu_ad_information">"Reklama haqida ma’lumot"</string>
     <string msgid="1605938743055376690" name="debug_menu_creative_preview">"Reklama faylini oldindan ko‘rish"</string>
-    <string msgid="2039274714455389140" name="debug_menu_title">"Tuzatish rejimini tanlash"</string>
+    <string msgid="2039274714455389140" name="debug_menu_title">"Tuzatish rejimini tanlang"</string>
     <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Nosozliklarni tuzatish"</string>
     <string msgid="6099173376375995052" name="decline">"Rad etish"</string>
-    <string msgid="8020323581538738027" name="store_picture_message">"Reklamaga rasmni gallereyaga saqlashga ruxsat berilsinmi?"</string>
+    <string msgid="8020323581538738027" name="store_picture_message">"Reklamaga rasmni galereyaga saqlashga ruxsat berilsinmi?"</string>
     <string msgid="4180630057627064606" name="store_picture_title">"Rasmni saqlash"</string>
 </resources>

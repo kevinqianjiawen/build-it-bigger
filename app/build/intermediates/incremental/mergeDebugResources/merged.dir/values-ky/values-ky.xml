@@ -21,7 +21,7 @@
     <string msgid="6155048007205742679" name="create_calendar_message">"Жарнамада жылнаама окуясы түзүлсүнбү?"</string>
     <string msgid="7967007864778154790" name="create_calendar_title">"Жылнаама окуясын түзүү"</string>
     <string msgid="4722375419392727435" name="debug_menu_ad_information">"Жарнама жөнүндө маалымат"</string>
-    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"Жараткыч алдын ала көрүү"</string>
+    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"Жарнама файлын алдын ала көрүү"</string>
     <string msgid="2039274714455389140" name="debug_menu_title">"Мүчүлүштүктөрдү оңдоо режимин тандаңыз"</string>
     <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Бузулууларды аныктап оңдоо"</string>
     <string msgid="6099173376375995052" name="decline">"Баш тартуу"</string>

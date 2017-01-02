@@ -5,33 +5,40 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="218055958847272"
+    timestamp="231110872027559"
     token="-7707436351566612342"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="METHOD_DELETED" >
 
     <task
         name="javac"
-        duration="971" />
+        duration="234" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="815" />
+        duration="42" />
     <task
         name="verifier"
-        duration="96" />
+        duration="2" />
 
     <artifact
-        location="/Users/painter/Documents/FinalProject/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="218055958847272"
+        timestamp="230231151842743"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/painter/Documents/FinalProject/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="231110872027559"
+        verifier="METHOD_DELETED" >
+        <artifact
+            location="/Users/painter/Documents/FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

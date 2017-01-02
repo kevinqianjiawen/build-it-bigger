@@ -21,7 +21,7 @@
     <string msgid="6155048007205742679" name="create_calendar_message">"जाहिरातीस कॅलेंडर इव्हेंट तयार करण्याची परवानगी द्यायची?"</string>
     <string msgid="7967007864778154790" name="create_calendar_title">"कॅलेंडर इव्हेंट तयार करा"</string>
     <string msgid="4722375419392727435" name="debug_menu_ad_information">"जाहिरात माहिती"</string>
-    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"सर्जनशील पूर्वावलोकन"</string>
+    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"क्रिएटिव्ह पूर्वावलोकन"</string>
     <string msgid="2039274714455389140" name="debug_menu_title">"डीबग मोड निवडा"</string>
     <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"समस्यानिवारण"</string>
     <string msgid="6099173376375995052" name="decline">"नकार द्या"</string>
